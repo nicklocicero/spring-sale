@@ -1,11 +1,11 @@
 [
   {
-    "name": "theme_info",
-    "theme_name": "Dawn",
-    "theme_version": "2.4.0",
-    "theme_author": "Shopify",
+    "name": "white-belt-init-theme",
+    "theme_name": "WhiteBelt",
+    "theme_version": "1.0.0",
+    "theme_author": "Nick LoCicero",
     "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn",
-    "theme_support_url": "https://support.shopify.com/"
+    "theme_support_url": "https://nicholaslocicero.com/"
   },
   {
     "name": "t:settings_schema.colors.name",
